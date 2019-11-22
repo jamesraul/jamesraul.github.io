@@ -44,7 +44,7 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 - Online Services / Cloud + Enterprise division supporting Microsoft’s online production and cloud products: Azure, Xbox, O365, Bing, Skype, specifically focused on M&A network engineering team (Venture Integration). 
 - Responsible for providing transitional network engineering support and migration strategies for acquisitions, divestitures and joint ventures. Notable projects included, Skype, FAST Search & Transfer (Share Point Search), and Phone Factor (Azure MFA). 
 - Worked closely with the architecture teams and other engineering teams to create an architecture and standard for a "Transitional Services Network" - this provided a standard connectivity path in and out of the Microsoft data centers. 
-- Designed and and led deployments of "network infrastructure stamps" - based on standards, these designs were created to support each the property groups newly acquired. 
+- Designed and led deployments of "network infrastructure stamps" - based on standards, these designs were created to support each the property groups newly acquired. 
 - Technologies and technologies included Cisco Nexus 7k/5k/3k (vPC), F5 LTM 8950, Juniper MX960/240/80/40 (BGP, MPLS L3VPN, Cisco ASA 5500, Catalyst 6500/4948, Cisco 3945/7606, Infoblox, Solarwinds, PRTG. 
 
 ### Presidio
