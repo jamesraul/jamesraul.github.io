@@ -6,7 +6,7 @@ Boston, MA
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
 
 ## Summary 
-Cloud infrastructure architect and manager supporting large scale environments. Strong desire to find innovative solutions that challenge the status quo through means of DevOps and “infrastructure-as-code" strategies. Natural ability to connect with co-workers and encourage top performance to meet group goals. Able to operate effectively in a fast, ever changing environment to meet or exceed deadlines and budget contraints. 
+Cloud infrastructure architect and manager supporting large scale environments. Strong desire to find innovative solutions that challenge the status quo through means of DevOps and “infrastructure-as-code" strategies. Natural ability to connect with co-workers and encourage top performance to meet group goals. Able to operate effectively in a fast, ever changing environment to meet or exceed deadlines and budget constraints. 
 
 ## Highlights
 - 20 years of IT infrastructure experience           
