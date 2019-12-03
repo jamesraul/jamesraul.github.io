@@ -24,7 +24,7 @@ Cloud infrastructure architect and manager supporting large scale environments. 
   * [GE IT Solutions](#ge-it-solutions)
   * [TriNET Systems](#trinet-systems)
 * [Education](#education)
-* [Interests](#interests)
+* [Miscellaneous](#miscellaneous)
 
 
 ## Experience
