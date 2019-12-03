@@ -34,7 +34,7 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 - Lead a team of infrastructure engineers (locally and remote) and drive a culture of “infrastructure-as-code” instead of “traditional IT practices” 
 - Manage staff (8 ppl), including the hiring, goal setting, annual reviews, compensation planning, career development, and adherence to company policy. 
 - Lead architectural discussions, influence the roadmap, and take ownership and responsibility over projects and systems. 
-- Maintain and operate the production facing cloud & infrastructure that support Rakuten products and services. This includes datacenter site selection, private cloud, compute, storage, networking and virtualization.  
+- Maintain and operate the production facing cloud infrastructure that support Rakuten products and services. This includes datacenter site selection, private cloud, compute, storage, networking and virtualization.  
 - Major projects include Data center consolidation in the US and EU and a global network backbone build out in the US and EU. (2) new US (~70 racks) and (1) EU (~30 racks) data center colocations, (1) US, (1) EU, (2) Tokyo Network POPs. Network POPs were built out to support IP Transit and Peering for our global network backbone. Data center build outs including rack, PDU, structured cabling and data center ethernet IP fabrics for customer connectivity. 
 - Products and technologies include Cumulus Linux, Edge Core & Dell Switches, OpenStack, Ansible, Python, GitHub Enterprise, Terraform, MSFT AD, Google Apps, Cisco Nexus 9k (EVPN VXLAN, vPC), Juniper MX104/204/480 (BGP, MPLS L3/L2VPN), VMWare vSphere/vCenter 6.x, Nuage SDN, OVS VXLAN, Dell & Quanta compute, Pure & NetApp SolidFire storage, tac_plus, Firewalls: SRX, ASA, Meraki, PFSense, Palo Alto, OpenGear console servers, Device42, Nagios, Smokeping, PagerDuty.  
 
@@ -67,7 +67,7 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 
 ### TriNET Systems
 **2000 - 2001**
-#### Network & Systems Engineer 
+#### Systems Engineer 
 - Customer facing role (pre/post sales engineering) responsible for providing IT solutions for network, systems, and internet infrastructure.  
 - Led projects and professional services for Avaya, Cisco and Microsoft technologies. Performed (3) Microsoft Exchange upgrades and (4) Network LAN/WAN deployments (routers, switches, firewalls, VPNs) 
 - Advanced integration projects with Cisco QoS WAN configurations to support MCK remote office VOIP solutions that integrated with Avaya PBXs. 
