@@ -44,8 +44,8 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 - Online Services / Cloud + Enterprise division supporting Microsoft’s online production and cloud products: Azure, Xbox, O365, Bing, Skype, specifically focused on M&A network engineering team (Venture Integration). 
 - Responsible for providing transitional network engineering support and migration strategies for acquisitions, divestitures and joint ventures. Notable projects included, Skype, FAST Search & Transfer (Share Point Search), and Phone Factor (Azure MFA). 
 - Worked closely with the architecture teams and other engineering teams to create an architecture and standard for a "Transitional Services Network" - this provided a standard connectivity path in and out of the Microsoft data centers. 
-- Designed and led deployments of "network infrastructure stamps" - based on standards, these designs were created to support each the property groups newly acquired. 
-- Technologies and technologies included Cisco Nexus 7k/5k/3k (vPC), F5 LTM 8950, Juniper MX960/240/80/40 (BGP, MPLS L3VPN, Cisco ASA 5500, Catalyst 6500/4948, Cisco 3945/7606, Infoblox, Solarwinds, PRTG. 
+- Designed and led deployments of "network infrastructure stamps" - based on standards, these designs were created to support property groups newly acquired. 
+- Products and technologies included Cisco Nexus 7k/5k/3k (vPC), F5 LTM 8950, Juniper MX960/240/80/40 (BGP, MPLS L3VPN, Cisco ASA 5500, Catalyst 6500/4948, Cisco 3945/7606, Infoblox, Solarwinds, PRTG. 
 
 ### Presidio
 **2004 - 2011**
@@ -59,28 +59,14 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 ### GE IT Solutions
 **2001 - 2004**  
 #### Network & Systems Engineer
-- Provide pre-sales engineering support to the northeast regional sales team and led client projects. 
-- Architected solutions for IT product and services for customers, 45% increase in product and 35% increase in services YOY. 
-- 100% satisfaction on the Cisco Customer Satisfaction Survey required for Cisco Gold Partnerships.  
-- Achieved “Superior Performance” for strong internetworking skills, accomplishing team goals and objectives and customer interaction and communication in 2002 evaluation.  
-- Technologies included Cisco (LAN/WAN, Security/VPN, IP Telephony) and Microsoft Windows/IIS/Exchange
 
 ### TriNET Systems
 **2000 - 2001**
 #### Systems Engineer 
-- Customer facing role (pre/post sales engineering) responsible for providing IT solutions for network, systems, and internet infrastructure.  
-- Led projects and professional services for Avaya, Cisco and Microsoft technologies. Performed (3) Microsoft Exchange upgrades and (4) Network LAN/WAN deployments (routers, switches, firewalls, VPNs) 
-- Advanced integration projects with Cisco QoS WAN configurations to support MCK remote office VOIP solutions that integrated with Avaya PBXs. 
-- Unified Microsoft Avaya mail systems installation and support. 
 
 ### South Shore Hospital
 **1999 - 2000**
 #### Technology Specialist Consultant
-- Supported Y2K compliance hardware and software upgrades. 
-- Novell to Windows NT conversion.  
-- Branch office LAN/WAN infrastructure upgrades, Cisco 56k/Fraction T1 Frame 
-- Shiva Dial Up Remote Access Servers 
-- Windows NT login script modifications and optimizations 
 
 ## Education
 - Juniper JNCIA Training, INE
