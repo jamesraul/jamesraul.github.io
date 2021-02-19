@@ -3,7 +3,7 @@ Boston, MA
 
 ![ProfilePic](https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profilepic.jpg)
 
-[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul) [![](https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-word-svg-8eedb3d95e.ico)](https://1drv.ms/w/s!Ah2mlvsHmFVai48bcxAHI2IWBsz9nA?e=Ns3xTa)
 
 ## Summary 
 Cloud infrastructure architect and manager supporting large scale environments. Strong desire to find innovative solutions that challenge the status quo through means of DevOps and “infrastructure-as-code" strategies. Natural ability to connect with co-workers and encourage top performance to meet group goals. Able to operate effectively in a fast, ever changing environment to meet or exceed deadlines and budget constraints. 
