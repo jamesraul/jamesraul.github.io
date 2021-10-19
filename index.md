@@ -76,7 +76,7 @@ Cloud infrastructure architect and manager supporting large scale environments. 
 - HS Diploma / IT Focused, South Shore Vocational Technical High School
 
 ## Miscellaneous
-- Youth Hockey Coach, USA Hockey Certified Level 3 Coach
+- Youth Hockey Coach, USA Hockey Certified Level 4 Coach
 - Drums
 - Running / Fitness
 - Gadgets
