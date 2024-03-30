@@ -31,7 +31,7 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 ## Experience
 ### Rakuten
 #### Sr Manager, Cloud Platforms and Infrastructure
-**2014 - Present**
+**2017 - Present**
 - Maintain and operate the production-facing cloud infrastructure, overseeing its continuous functionality and performance to support a diverse array of Rakuten products and services across several global data centers, all major public clouds, with connectivity provided by a robust global backbone network.
 - Lead a team of infrastructure engineers (locally and remote) to foster a culture of infrastructure-as-code by implementing training sessions on best practices, leading to a 15% improvement in deployment efficiency.
 - Manage staff, including the hiring, goal setting, annual reviews, compensation planning, career development, and adherence to company policy. Implemented performance improvement plans for underperforming team members, resulting in a 30% increase in overall team efficiency. Created career development programs that led to a 40% increase in employee promotions within the department.
