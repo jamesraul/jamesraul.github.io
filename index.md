@@ -64,16 +64,16 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 - Designed & implemented 3 tier 200+ campus switch network with a routed OSPF core. Leveraged multiple Cisco 6509 Cores with redundant supervisors in SSO / NSF mode. Implemented both in band and out of band Cisco Clean Access NAC appliance. Wireless upgrades with (3) WiSM and (5) WLC4404s and 480+ APs all managed and templated using WCS. 
 
 ### GE IT Solutions
-**2001 - 2004**
 #### Network & Systems Engineer
+**2001 - 2004**
 
 ### TriNET Systems
-**2000 - 2001**
 #### Systems Engineer 
+**2000 - 2001**
 
 ### South Shore Hospital
-**1999 - 2000**
 #### Technology Specialist Consultant
+**1999 - 2000**
 
 ## Education
 - Microsoft Certified Azure Administrator, Microsoft
