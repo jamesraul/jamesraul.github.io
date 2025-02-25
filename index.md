@@ -3,7 +3,9 @@ Boston, MA
 
 ![ProfilePic](https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profilepic.jpg)
 
-[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul) [![](https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-word-svg-8eedb3d95e.ico)](https://1drv.ms/w/s!Ah2mlvsHmFVai48bcxAHI2IWBsz9nA?e=Ns3xTa)
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
+
+[![](https://ts2.mm.bing.net/th?id=OIP.MvrHgBzLaVfvb9k54h2iqwHaHa&pid=15.1)](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZsMLtZURE5BMkJZVUJNWTZNSkYyT0k1NjFVQUM3SS4u)
 
 ## Summary 
 Leading teams and architecting large scale cloud platform and infrastructure solutions. Proven ability to find innovative solutions that challenge the status quo. Ability to connect with teams and encourage top performance to meet group goals. Operate effectively in a fast, ever-changing environment to meet or exceed deadlines and budget constraints. 
@@ -30,20 +32,24 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 
 ## Experience
 ### Rakuten
+#### Director, Cloud Platforms and Infrastructure
+**Current**
 #### Sr Manager, Cloud Platforms and Infrastructure
-**2017 - Present**
+**2021 - 2025**
+#### Manager, Infrastructure Engineering
+**2017 - 2021**
+#### Principal Infrastructure Engineer
+**2014 - 2017**
+- Manage teams of Infrastructure Engineers, DevOps, and SREs in order to deliver high-quality hybrid multi cloud platforms and infrastructure services in leased data centers and cloud. 
+- Led team to architect and build hybrid cloud solutions over highly available cloud networking and shared infrastructure services model for both AWS and GCP. This resulted in improving SLA from 99.99% to 99.999% SLA of services that were previously only running on DC/Internet. 
 - Maintain and operate the production-facing cloud infrastructure, overseeing its continuous functionality and performance to support a diverse array of Rakuten products and services across several global data centers, all major public clouds, with connectivity provided by a robust global backbone network.
-- Lead a team of infrastructure engineers (locally and remote) to foster a culture of infrastructure-as-code by implementing training sessions on best practices, leading to a 15% improvement in deployment efficiency.
+- Fostered a culture of infrastructure-as-code by implementing training sessions on best practices, leading to a 15% improvement in deployment efficiency.
 - Manage staff, including the hiring, goal setting, annual reviews, compensation planning, career development, and adherence to company policy. Implemented performance improvement plans for underperforming team members, resulting in a 30% increase in overall team efficiency. Created career development programs that led to a 40% increase in employee promotions within the department.
 - Lead architectural discussions, influence the roadmap, and take ownership and responsibility over projects and systems. Influenced key stakeholders to prioritize projects based on strategic business goals, leading to a 20% decrease in project delivery time.
 - Managed budget effectively, reducing overall spending by 10% while still delivering high-quality cloud infrastructure platforms via both private and public cloud.
-#### Principal Infrastructure Engineer
-**2014 - 2017**
-- Oversaw data center consolidation efforts in the US and EU, resulting in streamlined operations and cost savings of over 20% for Rakuten International businesses.
-- Directed the build-out of a global network backbone enhancing connectivity and scalability for Rakuten production services.
-- Performed the data center buildouts including rack, power/PDU, structured cabling, and deployment of private cloud solutions for compute, network and storage to Rakuten International businesses.
-- Major projects include Data center consolidation in the US and EU and a global network backbone build out in the US and EU. (2) new US (~70 racks) and (1) EU (~30 racks) data center colocations, (1) US, (1) EU, (2) Tokyo Network POPs. Network POPs were built out to support IP Transit and Peering for our global network backbone. Data center build outs including rack, PDU, structured cabling and data center ethernet IP fabrics for customer connectivity. 
-- Products and technologies include Cumulus Linux, Edge Core & Dell Switches, OpenStack, Ansible, Python, GitHub Enterprise, Terraform, MSFT AD, Google Apps, Cisco Nexus 9k (EVPN VXLAN, vPC), Juniper MX104/204/480 (BGP, MPLS L3/L2VPN), VMWare vSphere/vCenter 6.x, Nuage SDN, OVS VXLAN, Dell & Quanta compute, Pure & NetApp SolidFire storage, tac_plus, Firewalls: SRX, ASA, Meraki, PFSense, Palo Alto, OpenGear console servers, Device42, Nagios, Smokeping, PagerDuty.  
+- Oversaw data center consolidation efforts in the US and EU, resulting in streamlined operations and cost savings of over 20%
+- Directed and performed the build-out of a multi-vendor (Cisco, Juniper) network backbone enhancing connectivity and scalability
+- Led data center buildouts including rack, power/PDU, structured cabling, and deployment of private cloud (VMware, OpenStack) solutions for compute, network and storage 
 
 ### Microsoft
 #### Senior Network Engineer, Azure Networking (GFS-GNS)
