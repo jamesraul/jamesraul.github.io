@@ -54,20 +54,18 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 ### Microsoft
 #### Senior Network Engineer, Azure Networking (GFS-GNS)
 **2011 - 2014**
-- Online Services / Cloud + Enterprise division supporting Microsoft’s online production and cloud products: Azure, Xbox, O365, Bing, Skype, specifically focused on M&A network engineering team (Venture Integration).
-- Responsible for providing transitional network engineering support and migration strategies for acquisitions, divestitures and joint ventures. Notable projects included, Skype, FAST Search & Transfer (Share Point Search), and Phone Factor (Azure MFA).
-- Collaborated with architecture teams and engineering counterparts to develop a standard design for a "Transitional Services Network," a connectivity framework for ingress and egress traffic across Microsoft data centers for M&A entities.
-- Spearheaded the design and implementation of "network infrastructure stamps," to support the networking requirements of newly acquired property groups, ensuring seamless integration into the Microsoft ecosystem and immediate ROI.
-- Products and technologies included Cisco Nexus 7k/5k/3k (vPC), F5 LTM 8950, Juniper MX960/240/80/40 (BGP, MPLS L3VPN, Cisco ASA 5500, Catalyst 6500/4948, Cisco 3945/7606, Infoblox, Solarwinds, PRTG. 
+- Online Services / Cloud + Enterprise division supporting Microsoft’s online production and cloud products: Azure, Xbox, O365, Bing, Skype, specifically focused on M&A network engineering team (Venture Integration). 
+- Responsible for providing transitional network engineering support and migration strategies for acquisitions, divestitures and joint ventures. Notable projects included, Skype, FAST Search & Transfer (Share Point Search), and Phone Factor (Azure MFA). 
+- Collaborated with architecture teams and engineering counterparts to develop a standard design for a "Transitional Services Network," a connectivity framework for ingress and egress traffic across Microsoft data centers for M&A entities. 
+- Spearheaded the design and implementation of "network infrastructure stamps," to support the 
+networking requirements of newly acquired property groups, ensuring seamless integration into the 
+Microsoft ecosystem and immediate ROI. 
 
 ### Presidio
 #### Network & Security Architect
 **2004 - 2011**
-- Delivered end-to-end solutions to customers for large data centers, LAN/WAN, security, VPN, Wireless, and IP Telephony, ensuring seamless integration and performance.
+- Delivered end-to-end solutions to customers for large data centers, LAN/WAN, security, VPN, Wireless, and IP Telephony, ensuring seamless integration and performance. 
 - Provided pre-sales engineering support to the regional sales team, offering technical expertise and strategic insights to drive successful client engagements and achieve sales targets.
-- Cisco Wireless deployment for a major Boston Healthcare provider that included multiple 3750 PoE Switch deployments, 6509 WLSMs, 300+ APs and "Cisco SWAN" layer-3 mobility roaming solution via GRE tunnels. 
-- Complete LAN/WAN Cisco network refresh, 6500, 4500 Switching, 2811 Routing to MPLS via BGP. New Cisco 100+ AP wireless system with (3) globally distributed WLC4402s. Cisco security rollout of ASA550 Firewalls / AnyConnect VPN, Cisco Clean Access NAC Appliance, Security Manager, IPS, HIPS, MARS 
-- Designed & implemented 3 tier 200+ campus switch network with a routed OSPF core. Leveraged multiple Cisco 6509 Cores with redundant supervisors in SSO / NSF mode. Implemented both in band and out of band Cisco Clean Access NAC appliance. Wireless upgrades with (3) WiSM and (5) WLC4404s and 480+ APs all managed and templated using WCS. 
 
 ### GE IT Solutions
 #### Network & Systems Engineer
