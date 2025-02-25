@@ -5,7 +5,7 @@ Boston, MA
 
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
 
-[![](<img src="https://ts2.mm.bing.net/th?id=OIP.MvrHgBzLaVfvb9k54h2iqwHaHa&pid=15.1" width="5%" height="5%"/>)](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZsMLtZURE5BMkJZVUJNWTZNSkYyT0k1NjFVQUM3SS4u)
+[![](https://th.bing.com/th/id/OIP.fEe0L7RbU_P2y0uiAZdDZwHaEo?w=298&h=186&c=7&r=0&o=5&pid=1.7)](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZsMLtZURE5BMkJZVUJNWTZNSkYyT0k1NjFVQUM3SS4u)
 
 ## Summary 
 Leading teams and architecting large scale cloud platform and infrastructure solutions. Proven ability to find innovative solutions that challenge the status quo. Ability to connect with teams and encourage top performance to meet group goals. Operate effectively in a fast, ever-changing environment to meet or exceed deadlines and budget constraints. 
