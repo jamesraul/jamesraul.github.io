@@ -31,15 +31,19 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 
 
 ## Experience
+### Kentik
+#### Senior Manager, Production SRE
+**8/2025 - Current**
+- Manage the production SRE team for all things related to operating the data center and platforms that power the Kentik SaaS products
 ### Rakuten
 #### Director, Cloud Platforms and Infrastructure
-**Current**
+**4/2025 - 8/2025**
 #### Sr Manager, Cloud Platforms and Infrastructure
-**2021 - 2025**
+**4/2021 - 4/2025**
 #### Manager, Infrastructure Engineering
-**2017 - 2021**
+**4/2017 - 4/2021**
 #### Principal Infrastructure Engineer
-**2014 - 2017**
+**11/2014 - 2/2017**
 - Manage teams of Infrastructure Engineers, DevOps, and SREs in order to deliver high-quality hybrid multi cloud platforms and infrastructure services in leased data centers and cloud. 
 - Led team to architect and build hybrid cloud solutions over highly available cloud networking and shared infrastructure services model for both AWS and GCP. This resulted in improving SLA from 99.99% to 99.999% SLA of services that were previously only running on DC/Internet. 
 - Maintain and operate the production-facing cloud infrastructure, overseeing its continuous functionality and performance to support a diverse array of Rakuten products and services across several global data centers, all major public clouds, with connectivity provided by a robust global backbone network.
@@ -53,7 +57,7 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 
 ### Microsoft
 #### Senior Network Engineer, Azure Networking (GFS-GNS)
-**2011 - 2014**
+**3/2011 -  11/2014**
 - Online Services / Cloud + Enterprise division supporting Microsoft’s online production and cloud products: Azure, Xbox, O365, Bing, Skype, specifically focused on M&A network engineering team (Venture Integration). 
 - Responsible for providing transitional network engineering support and migration strategies for acquisitions, divestitures and joint ventures. Notable projects included, Skype, FAST Search & Transfer (Share Point Search), and Phone Factor (Azure MFA). 
 - Collaborated with architecture teams and engineering counterparts to develop a standard design for a "Transitional Services Network," a connectivity framework for ingress and egress traffic across Microsoft data centers for M&A entities. 
@@ -63,21 +67,21 @@ Microsoft ecosystem and immediate ROI.
 
 ### Presidio
 #### Network & Security Architect
-**2004 - 2011**
+**3/2004 - 3/2011**
 - Delivered end-to-end solutions to customers for large data centers, LAN/WAN, security, VPN, Wireless, and IP Telephony, ensuring seamless integration and performance. 
 - Provided pre-sales engineering support to the regional sales team, offering technical expertise and strategic insights to drive successful client engagements and achieve sales targets.
 
 ### GE IT Solutions
 #### Network & Systems Engineer
-**2001 - 2004**
+**3/2001 - 3/2004**
 
 ### TriNET Systems
 #### Systems Engineer 
-**2000 - 2001**
+**9/2000 - 3/2001**
 
 ### South Shore Hospital
 #### Technology Specialist Consultant
-**1999 - 2000**
+**9/1999 - 9/2000**
 
 ## Education
 - Microsoft Certified Azure Administrator, Microsoft
