@@ -88,11 +88,5 @@ Microsoft ecosystem and immediate ROI.
 - Microsoft Certified Azure Administrator, Microsoft
 - HashiCorp Terraform Training, Udemy
 - OpenStack Accelerated Bootcamp, Mirantis
-- Juniper JNCIA, Cisco CCNA, CCNP, Wireless, Security, CCIE #18071
+- Cisco CCIE #18071, Juniper JNCIA, Cisco CCNA, CCNP, Wireless, Security
 - HS Diploma / IT Focused, South Shore Vocational Technical High School
-
-## Miscellaneous
-- Youth Hockey Coach, USA Hockey Certified Level 4 Coach
-- Drums
-- Running / Fitness
-- Gadgets
