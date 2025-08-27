@@ -34,7 +34,8 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 ### Kentik
 #### Senior Manager, Production SRE
 **8/2025 - Current**
-- Manage the production SRE team for all things related to operating the data center and platforms that power the Kentik SaaS products
+- Manage the production SRE team for all things related to operating the data center and platforms that power the Kentik SaaS products.
+
 ### Rakuten
 #### Director, Cloud Platforms and Infrastructure
 **4/2025 - 8/2025**
@@ -51,9 +52,9 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 - Manage staff, including the hiring, goal setting, annual reviews, compensation planning, career development, and adherence to company policy. Implemented performance improvement plans for underperforming team members, resulting in a 30% increase in overall team efficiency. Created career development programs that led to a 40% increase in employee promotions within the department.
 - Lead architectural discussions, influence the roadmap, and take ownership and responsibility over projects and systems. Influenced key stakeholders to prioritize projects based on strategic business goals, leading to a 20% decrease in project delivery time.
 - Managed budget effectively, reducing overall spending by 10% while still delivering high-quality cloud infrastructure platforms via both private and public cloud.
-- Oversaw data center consolidation efforts in the US and EU, resulting in streamlined operations and cost savings of over 20%
-- Directed and performed the build-out of a multi-vendor (Cisco, Juniper) network backbone enhancing connectivity and scalability
-- Led data center buildouts including rack, power/PDU, structured cabling, and deployment of private cloud (VMware, OpenStack) solutions for compute, network and storage 
+- Oversaw data center consolidation efforts in the US and EU, resulting in streamlined operations and cost savings of over 20%.
+- Directed and performed the build-out of a multi-vendor (Cisco, Juniper) network backbone enhancing connectivity and scalability.
+- Led data center buildouts including rack, power/PDU, structured cabling, and deployment of private cloud (VMware, OpenStack) solutions for compute, network and storage.
 
 ### Microsoft
 #### Senior Network Engineer, Azure Networking (GFS-GNS)
@@ -87,11 +88,5 @@ Microsoft ecosystem and immediate ROI.
 - Microsoft Certified Azure Administrator, Microsoft
 - HashiCorp Terraform Training, Udemy
 - OpenStack Accelerated Bootcamp, Mirantis
-- Juniper JNCIA, Cisco CCNA, CCNP, Wireless, Security, CCIE #18071
+- Cisco CCIE #18071, Juniper JNCIA, Cisco CCNA, CCNP, Wireless, Security
 - HS Diploma / IT Focused, South Shore Vocational Technical High School
-
-## Miscellaneous
-- Youth Hockey Coach, USA Hockey Certified Level 4 Coach
-- Drums
-- Running / Fitness
-- Gadgets
