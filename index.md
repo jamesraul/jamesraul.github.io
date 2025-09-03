@@ -21,6 +21,7 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 * [Summary](#summary)
 * [Highlights](#highlights)
 * [Experience](#experience)
+  * [Kentik](#kentik)
   * [Rakuten](#rakuten)
   * [Microsoft](#microsoft)
   * [Presidio](#presidio)
