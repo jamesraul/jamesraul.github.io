@@ -32,9 +32,9 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 
 ## Experience
 ### Kentik
-#### Senior Manager, Production SRE
+#### Senior Engineering Manager, Infrastructure Production SRE
 **8/2025 - Current**
-- Manage the production SRE team for all things related to operating the data center and platforms that power the Kentik SaaS products.
+- Manage the production SRE team for all things related to operating the infrastructure that powers the Kentik SaaS products.
 
 ### Rakuten
 #### Director, Cloud Platforms and Infrastructure
