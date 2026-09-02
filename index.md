@@ -1,7 +1,7 @@
 # James Raulinaitis
 Boston, MA
 
-<img src="https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profilepic2.png" alt="James Raulinaitis Profile Picture" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profile-pic-primary2026-3.jpeg" alt="James Raulinaitis Profile Picture" width="120" height="120" />
 
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
 
@@ -32,11 +32,14 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 
 
 ## Experience
+### Infoblox
+#### Engineering Manager, Production Infrastructure SRE
+**9/2026 - Current**
+- Kentik has joined forces with Infoblox
 ### Kentik
-#### Senior Engineering Manager, Infrastructure Production SRE
+#### Senior Engineering Manager, Production Infrastructure SRE
 **8/2025 - Current**
 - Manage the production SRE team for all things related to operating the infrastructure that powers the Kentik SaaS products.
-
 ### Rakuten
 #### Director, Cloud Platforms and Infrastructure
 **4/2025 - 8/2025**
