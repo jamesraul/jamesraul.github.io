@@ -1,7 +1,7 @@
 # James Raulinaitis
 Boston, MA
 
-<img src="https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profile-pic-primary2026-3.jpeg" alt="James Raulinaitis Profile Picture" width="2400" height="120" />
+<img src="https://raw.githubusercontent.com/jamesraul/jamesraul.github.io/master/profile-pic-primary2026-3-small.jpeg" alt="James Raulinaitis Profile Picture"/>
 
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/jamesraul)
 
