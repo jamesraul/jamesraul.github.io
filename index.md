@@ -36,10 +36,12 @@ Leading teams and architecting large scale cloud platform and infrastructure sol
 #### Engineering Manager, Production Infrastructure SRE
 **9/2026 - Current**
 - Kentik has joined forces with Infoblox
+
 ### Kentik
 #### Senior Engineering Manager, Production Infrastructure SRE
 **8/2025 - Current**
 - Manage the production SRE team for all things related to operating the infrastructure that powers the Kentik SaaS products.
+
 ### Rakuten
 #### Director, Cloud Platforms and Infrastructure
 **4/2025 - 8/2025**
